@@ -1,20 +1,20 @@
 ## Monster parts
 The monsters you're going to generate have three parts to their name. A beginning, a middle and an end. Here's a few suggestions for each, but make up some of your own too!
 
-  ### Beginnings
+### Beginnings
   - Giant
   - Mega
   - Greater
   - Lesser
 
-  ### Middles
+### Middles
   - Draco
   - Doom
   - Death
   - Ice
   - Uni
 
-  ### Ends
+### Ends
   - Cat
   - Tree
   - Owl
